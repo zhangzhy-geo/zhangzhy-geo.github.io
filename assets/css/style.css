@@ -193,7 +193,7 @@ ul.dated li > span { color: var(--accent); font-weight: 600; font-size: .85rem; 
   .side-role { margin: 0; }
   .side-links { grid-column: 1 / -1; margin-top: 18px; display: flex; flex-wrap: wrap; gap: 6px 16px; }
   .side-links a.side-cv { margin-top: 0; }
-  .visitor-globe { grid-column: 1 / -1; }
+  .visitor-globe { display: none; }   /* phones/tablets: hide the visitor map so it doesn't push the bio down */
   .about { padding-top: 28px; }
 }
 @media (max-width: 820px) {

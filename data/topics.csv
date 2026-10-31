@@ -1,0 +1,4 @@
+﻿topic_id,label,title,description
+coupled,Coupled Land–Atmosphere Modeling,Land–Atmosphere Interactions & Coupled Atmosphere–Hydrology Modeling,"Fully coupled, convection-permitting WRF / WRF-Hydro modeling and water tagging to quantify how terrain, soils, and lateral water flow feed back on the atmosphere."
+agro,Agroecosystems & Land-Use Change,"Agroecosystems, Land-Use Change & Land Degradation","Process-based agroecosystem modeling and model–data fusion, and how land-use change, afforestation and land degradation affect land–atmosphere exchange."
+hydroclimate,Water Cycle & Hydroclimate,"Regional Water Cycle, Drought & Hydroclimate","Moisture sources, evapotranspiration, drought propagation, and lake dynamics from the Tibetan Plateau and drylands of China to the continental U.S."

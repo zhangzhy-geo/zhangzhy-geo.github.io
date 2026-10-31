@@ -1,0 +1,7 @@
+thumbs_raw/
+__pycache__/
+.DS_Store
+
+# local guides (not uploaded)
+更新论文.md
+更新其他内容.md
